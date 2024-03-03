@@ -5,7 +5,7 @@ import random
 import os
 import os.path
 """
-COMS W4705 - Natural Language Processing - Fall 2023 
+COMS W4705 - Natural Language Processing - Spring 2024 
 Programming Homework 1 - Trigram Language Models
 Professor Daniel Bauer
 """
